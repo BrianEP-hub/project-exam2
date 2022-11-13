@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_infos",
+  "info": {
+    "singularName": "home-info",
+    "pluralName": "home-infos",
+    "displayName": "Home info",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "header": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
